@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\bin\Debug\netcoreapp3.1\Code_KY_SP22.exe
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\bin\Debug\netcoreapp3.1\Code_KY_SP22.deps.json
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\bin\Debug\netcoreapp3.1\Code_KY_SP22.runtimeconfig.json
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\bin\Debug\netcoreapp3.1\Code_KY_SP22.runtimeconfig.dev.json
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\bin\Debug\netcoreapp3.1\Code_KY_SP22.dll
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\bin\Debug\netcoreapp3.1\Code_KY_SP22.pdb
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.AssemblyInfo.cs
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.dll
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.pdb
+C:\Users\User\Desktop\Cksp2022\Code_KY_SP22\Code_KY_SP22\obj\Debug\netcoreapp3.1\Code_KY_SP22.genruntimeconfig.cache

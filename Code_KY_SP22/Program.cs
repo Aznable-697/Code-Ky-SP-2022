@@ -6,7 +6,7 @@ namespace Code_KY_SP22
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Class!");
+            Console.WriteLine("Hello Code Kentucky Session Spring 2022!");
         }
     }
 }
